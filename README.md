@@ -1,6 +1,7 @@
 ## Discord-Inspired Dashboard with Tailwind CSS3
 
 - [Live demo](https://wuv.netlify.app)
+- First time using / Working with api's kinda fun too be honest
 - Guided / Inspired by fireship-io
 
 #### Dark mode
