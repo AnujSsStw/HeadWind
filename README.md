@@ -1,11 +1,13 @@
 ## Discord-Inspired Dashboard with Tailwind CSS3
 
 - [Live demo](https://wuv.netlify.app)
+- Guided / Inspired by fireship-io
 
 #### Dark mode
 
-![Dark mode](./dark.png)
+![Dark mode](dark.png)
 
 #### Light mode
 
-![Light mode](./light.png)
+![Light mode](light.png)
+
