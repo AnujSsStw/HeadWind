@@ -5,9 +5,9 @@
 
 #### Dark mode
 
-![Dark mode](dark.png)
+![Dark mode](./dark.PNG)
 
 #### Light mode
 
-![Light mode](light.png)
+![Light mode](./light.PNG)
 
