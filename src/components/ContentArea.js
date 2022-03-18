@@ -7,7 +7,7 @@ const Contant = () => {
     return (
         <div className="flex flex-col  bg-gray-300 
         dark:bg-gray-700
-        m-0 h-full w-full overflow-hidden">
+        m-0 min-h-screen w-full overflow-hidden">
             <Navbar />
             <div className="feeds-list">
                 {/* {Array.from({ length: random }, (_, length) =>
