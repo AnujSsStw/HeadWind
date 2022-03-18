@@ -9,7 +9,6 @@ const usedarkMode = () => {
         document.documentElement.classList.remove('dark')
         isdark = false
     }
-    { console.log(isdark) }
     return isdark
 }
 
