@@ -44,17 +44,12 @@ const Contant = () => {
                 <Feeds
                     name='Claire'
                     timestamp='2 hours ago'
-                    text={`Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit
-          amet consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur
-          adipisicing elit. Lorem ipsum dolor sit amet consectetur adipisicing elit. `}
+                    text={`She tried not to judge him. His ratty clothes and unkempt hair made him look homeless. Was he really the next Einstein as she had been told? On the off chance it was true, she continued to try not to judge him. `}
                 />
                 <Feeds
                     name='H.U.N.K'
                     timestamp='Just now'
-                    text={`Lorem ipsum dolor sit amet cofafdipisicing elit. Lorem ipsum dolor sit
-          amet consectetur adipisicing elitfafafadolor sit amet consectetur
-          adipisicing elfafdafafd dolor sit amet consectetur adipisicing elit. Lorem
-          ipsum dolor sit amet consectetur adipisicing elit.`}
+                    text={`He knew what he was supposed to do. That had been apparent from the beginning. That was what made the choice so difficult. What he was supposed to do and what he would do were not the same. This would have been fine if he were willing to face the inevitable consequences, but he wasn't.`}
                 />
             </div>
             <TypingBar />
